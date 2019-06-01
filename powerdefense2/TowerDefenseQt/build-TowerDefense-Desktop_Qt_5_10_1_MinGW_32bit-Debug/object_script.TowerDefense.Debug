@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\towerposition.o
+./debug\tower.o
+./debug\waypoint.o
+./debug\enemy.o
+./debug\bullet.o
+./debug\audioplayer.o
+./debug\plistreader.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_tower.o
+./debug\moc_enemy.o
+./debug\moc_bullet.o
+);

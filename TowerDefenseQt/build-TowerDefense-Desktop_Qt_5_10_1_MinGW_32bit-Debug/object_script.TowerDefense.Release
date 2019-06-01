@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\towerposition.o
+./release\tower.o
+./release\waypoint.o
+./release\enemy.o
+./release\bullet.o
+./release\audioplayer.o
+./release\plistreader.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_tower.o
+./release\moc_enemy.o
+./release\moc_bullet.o
+);
