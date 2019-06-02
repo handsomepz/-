@@ -15,7 +15,7 @@ class Enemy : public QObject
 {
 	Q_OBJECT
 public:
-	Enemy(WayPoint *startWayPoint, MainWindow *game, const QPixmap &sprite = QPixmap(":/image/enemy.png"));
+    Enemy(WayPoint *startWayPoint, MainWindow *game, const QPixmap &sprite = QPixmap(":/image/enemytest.png"));
 	~Enemy();
 
 	void draw(QPainter *painter) const;
